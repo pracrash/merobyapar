@@ -1,0 +1,4908 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OSClass 3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-05 11:57+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Juan Ramón <juanramon@osclass.org>\n"
+"Language-Team: OSClass <info@osclass.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n !=1;\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: /var/www/osclass-git\n"
+
+#: /var/www/osclass-git/ajax.php:231
+msgid "no action defined"
+msgstr ""
+
+#: /var/www/osclass-git/contact.php:57
+#, php-format
+msgid "%s (%s) left this message : %s"
+msgstr ""
+
+#: /var/www/osclass-git/contact.php:61
+msgid "Contact form"
+msgstr ""
+
+#: /var/www/osclass-git/contact.php:63
+msgid "Administrator"
+msgstr ""
+
+#: /var/www/osclass-git/index.php:41
+#, php-format
+msgid "Maintenance &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/index.php:42
+#, php-format
+msgid "We are sorry for any inconvenience. %s is under maintenance mode"
+msgstr ""
+
+#: /var/www/osclass-git/oc-load.php:207
+msgid "The website is currently under maintenance mode"
+msgstr ""
+
+#: /var/www/osclass-git/search.php:395
+msgid "Latest listings added"
+msgstr ""
+
+#: /var/www/osclass-git/search.php:397
+msgid "Latest listings added in"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/admins.php:309
+#: /var/www/osclass-git/oc-admin/emails.php:131
+#: /var/www/osclass-git/oc-admin/languages.php:339
+msgid "Edit"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/admins.php:310
+#: /var/www/osclass-git/oc-admin/languages.php:342
+msgid "Delete"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/items.php:440
+msgid "Deactivate"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/items.php:442
+msgid "Activate"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/items.php:445
+msgid "Block"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/items.php:447
+msgid "Unblock"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/items.php:450
+msgid "Unmark as premium"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/items.php:452
+msgid "Mark as premium"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/items.php:455
+msgid "Unmark as spam"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/items.php:457
+msgid "Mark as spam"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/languages.php:340
+msgid "Disable (website)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/languages.php:340
+msgid "Enable (website)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/languages.php:341
+msgid "Disable (oc-admin)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/languages.php:341
+msgid "Enable (oc-admin)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/languages.php:353
+#: /var/www/osclass-git/oc-admin/languages.php:354
+msgid "Yes"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/languages.php:353
+#: /var/www/osclass-git/oc-admin/languages.php:354
+msgid "No"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/plugins.php:288
+msgid "There's a new version available to update"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/plugins.php:294
+msgid "Configure"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/plugins.php:300
+msgid "Disable"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/plugins.php:302
+msgid "Enable"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/plugins.php:308
+msgid "Uninstall"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/plugins.php:310
+msgid "Install"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:57
+msgid "No results"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:185
+msgid "Some error ocurred"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:187
+msgid "Order saved"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:245
+msgid "Error while updating."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:249
+msgid "Sorry, you already have one field with that name"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:255
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:378
+msgid "Saved"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:265
+msgid "The custom field has been deleted"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:267
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:372
+msgid "Error while deleting"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:273
+msgid "NEW custom field"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:304
+#, php-format
+msgid "No category exists with this id: %d"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:327
+msgid "The category and its subcategories have been enabled"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:331
+msgid "The category and its subcategories have been disabled"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:342
+msgid "Parent category is disabled, you can not enable that category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:350
+msgid "The subcategory has been enabled"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:354
+msgid "The subcategory has been disabled"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:369
+msgid "The categories have been deleted"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:418
+msgid "Category updated correctly"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:422
+msgid "Category updated correctly, but some titles were empty"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:424
+msgid "Sorry, at least a title is needed"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:427
+msgid "Error while updating"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:454
+#, php-format
+msgid "Test email, %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:455
+msgid "Test email"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:467
+msgid "Email sent successfully"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:469
+msgid "An error has occurred while sending email"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:595
+msgid "Everything was OK! Your OSClass installation is updated"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:597
+msgid "Almost everything was OK! Your OSClass installation is updated, but there were some errors removing temporary files. Please manually remove the \"oc-temp\" folder"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:602
+msgid "Problems upgrading the database"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:606
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:769
+msgid "Problems copying files. Maybe permissions are not correct"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:610
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:773
+msgid "Nothing to copy"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:614
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:777
+msgid "Unzip failed"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:618
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:781
+msgid "Download failed"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:622
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:789
+msgid "Missing download URL"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:627
+msgid "We had some errors upgrading your database. The follwing queries failed"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:661
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:813
+msgid "No external sources are allowed"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:762
+msgid "Everything was OK!"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:765
+msgid "Almost everything was OK! but there were some errors removing temporary files. Please manually remove the \"oc-temp\" folder"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:785
+msgid "Input code not valid"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:818
+msgid "Not a valid code"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:821
+msgid "No code was sumitted"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/ajax.php:889
+msgid "You don't have enough permissions"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/comments_processing.php:145
+#: /var/www/osclass-git/oc-admin/ajax/items_processing.php:370
+#: /var/www/osclass-git/oc-admin/ajax/users_processing.php:142
+msgid "Show more"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/items_processing.php:362
+msgid "View comments"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/items_processing.php:365
+msgid "View media"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/items_processing.php:433
+msgid "Clear All"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/items_processing.php:435
+msgid "Clear Spam"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/items_processing.php:438
+msgid "Clear Misclassified"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/items_processing.php:441
+msgid "Clear Duplicated"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/items_processing.php:444
+msgid "Clear Offensive"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/items_processing.php:447
+msgid "Clear Expired"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/pages_processing.php:86
+msgid "View page"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/pages_processing.php:101
+msgid "Up"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/pages_processing.php:101
+msgid "Down"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/ajax/users_processing.php:137
+msgid "Re-send activation email"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/forgot_password.php:22
+msgid "Change your password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/forgot_password.php:35
+msgid "Type your new password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/forgot_password.php:44
+msgid "New pasword"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/forgot_password.php:50
+msgid "Repeat new pasword"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/forgot_password.php:55
+msgid "Change password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/forgot_password.php:59
+#: /var/www/osclass-git/oc-admin/gui/login.php:22
+#: /var/www/osclass-git/oc-admin/gui/login.php:68
+#: /var/www/osclass-git/oc-admin/gui/recover.php:51
+msgid "Log in"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/forgot_password.php:62
+#: /var/www/osclass-git/oc-admin/gui/login.php:73
+#: /var/www/osclass-git/oc-admin/gui/recover.php:54
+#, php-format
+msgid "Back to %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/login.php:39
+msgid "Username"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/login.php:45
+msgid "Password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/login.php:63
+msgid "Remember me"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/login.php:65
+msgid "Forgot your password?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/recover.php:22
+msgid "Lost your password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/recover.php:36
+msgid "Please enter your username or e-mail address"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/recover.php:37
+msgid "You will receive a new password via e-mail"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/recover.php:44
+msgid "E-mail"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/gui/recover.php:48
+msgid "Get new password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:25
+msgid "Listings by category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:32
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:37
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:35
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:27
+msgid "Listing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:32
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:37
+msgid "Listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:45
+msgid "There aren't any uploaded listing yet"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:53
+msgid "Statistics"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:56
+#, php-format
+msgid "Number of listings: %d"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:57
+#, php-format
+msgid "Number of public users: %d"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:58
+#, php-format
+msgid "Number of administrators: %d"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:60
+#, php-format
+msgid "Number of listings marked as spam: %d"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:61
+#, php-format
+msgid "Number of listings marked as blocked: %d"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:62
+#, php-format
+msgid "Number of listings marked as inactive: %d"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:69
+msgid "Latest comments"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:75
+msgid "Commented on listing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:80
+msgid "There aren't any comments yet"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:87
+msgid "Latest news from OSClass"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:96
+msgid "new"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/dashboard.php:102
+msgid "Unable to fetch news from OSClass. Please try again later"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/functions.php:39
+#: /var/www/osclass-git/oc-admin/themes/modern/functions.php:69
+msgid "Enter title here"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/functions.php:68
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:64
+msgid "Title"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/functions.php:83
+#: /var/www/osclass-git/oc-admin/themes/modern/functions.php:109
+msgid "Description"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:25
+msgid "Edit admin"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:27
+msgid "Save"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:30
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:34
+msgid "Add admin"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:32
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:31
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:31
+msgid "Add"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:37
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:32
+msgid "Admins"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:69
+msgid "Name <em>(required)</em>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:75
+msgid "Username <em>(required)</em>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:79
+msgid "E-mail <em>(required)</em>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:84
+msgid "Admin type <em>(required)</em>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:87
+msgid "Administrators have full control over all aspects of your installation, while moderators are only allowed to moderate listing, comments and media files"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:93
+msgid "Current password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:96
+msgid "If you would like to change the password type your current one. Otherwise leave this blank"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:101
+msgid "New password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:108
+msgid "Type your new password again"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/frm.php:115
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:179
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:190
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:106
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:158
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:178
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/widgets.php:117
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/iframe.php:49
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:393
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:109
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:196
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:207
+msgid "Cancel"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:27
+#, php-format
+msgid "Admins &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:107
+msgid "Manage admins"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:107
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:78
+msgid "Add new"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:118
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:185
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:126
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:202
+msgid "Bulk actions"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:119
+#, php-format
+msgid "Are you sure you want to %s the selected admins?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:120
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:132
+msgid "Apply"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:129
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:85
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:137
+msgid "Name"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:151
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:168
+msgid "No data available in table"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:169
+msgid "Delete admin"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/admins/index.php:175
+msgid "Are you sure you want to delete this admin?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:28
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:56
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/view.php:21
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/widgets.php:30
+msgid "Appearance"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:35
+#, php-format
+msgid "Add theme &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:42
+msgid "Add new theme"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:47
+#, php-format
+msgid "Download more themes at %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:53
+msgid "Theme package (.zip)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:59
+msgid "Upload"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:65
+msgid "Cannot install a new theme"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:68
+msgid "The theme folder is not writable on your server and you cannot upload themes from the administration panel. Please make the theme folder writable"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:71
+msgid "To make the directory writable under UNIX execute this command from the shell:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:86
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:90
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:94
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:138
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:142
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:146
+msgid "Loading data"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:89
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:141
+msgid "Version"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:93
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:145
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:70
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:140
+msgid "Author"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:97
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:149
+msgid "URL"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:98
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:150
+msgid "Download manually"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:107
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:159
+msgid "Continue install"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:156
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:107
+msgid "Preview"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:160
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:83
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:119
+msgid "by"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add.php:188
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:232
+msgid "OSClass Market"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:24
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:36
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:52
+msgid "Edit widget"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:26
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:54
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/iframe.php:48
+#: /var/www/osclass-git/oc-admin/themes/modern/emails/frm.php:78
+msgid "Save changes"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:28
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:30
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:38
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:56
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:58
+msgid "Add widget"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:45
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:64
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/view.php:26
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/widgets.php:61
+#, php-format
+msgid "Appearance &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:91
+msgid "Description: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:118
+msgid "Description (only for internal purposes)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/add_widget.php:124
+msgid "HTML Code for the Widget"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:32
+msgid "Delete theme"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:58
+msgid "Add theme"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:74
+msgid "Market"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:75
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:91
+msgid "Available themes"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:78
+msgid "Current theme"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:113
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:228
+msgid "Update"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:174
+msgid "This action can not be undone. Are you sure you want to delete the theme?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:195
+msgid "Please wait until the download is completed"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:195
+msgid "Downloading"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:202
+msgid "The theme have been downloaded correctly, proceed to activate or preview it."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:204
+msgid "Ok"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:205
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/index.php:208
+msgid "Close"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/widgets.php:44
+msgid "Delete widget"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/widgets.php:68
+msgid "Manage Widgets"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/widgets.php:75
+#, php-format
+msgid "Section: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/widgets.php:75
+msgid "Add HTML widget"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/widgets.php:84
+msgid "Widget"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/widgets.php:85
+#, php-format
+msgid "Description: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/appearance/widgets.php:113
+msgid "Are you sure you want to delete this widget?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/iframe.php:23
+msgid "Edit category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/iframe.php:32
+msgid "Expirations days"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/iframe.php:35
+msgid "If the value is zero it means that there isn't expiration for this category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/iframe.php:86
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:140
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:198
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:295
+msgid "Ajax error, try again."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:29
+msgid "Categories"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:38
+#, php-format
+msgid "Categories &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:100
+msgid "Note: You need to expand the category if you want to make it a subcategory."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:242
+msgid "This action can take a while."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:357
+msgid "Drag&drop the categories to reorder them the way you like. Click on edit link to edit the category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:386
+msgid "Delete category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/categories/index.php:389
+msgid "<strong>WARNING</strong>: This will also delete the listings under that category. This action cannot be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:24
+msgid "Edit comment"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:26
+msgid "Update comment"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:29
+msgid "Add comment"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:41
+#, php-format
+msgid "Edit comment &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:74
+msgid "It's a registered user"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:75
+msgid "Edit user"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:80
+msgid "Author's e-mail"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:86
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:94
+msgid "Status"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:89
+msgid "Active"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:89
+msgid "Inactive"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:97
+msgid "Unblocked"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:97
+msgid "Blocked"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/frm.php:102
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:141
+msgid "Comment"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:28
+#: /var/www/osclass-git/oc-admin/themes/modern/emails/frm.php:20
+msgid "Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:36
+#, php-format
+msgid "Comments &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:108
+msgid "Comments"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:113
+msgid "Hidden comments"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:115
+msgid "All comments"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:127
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:128
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:129
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:130
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:131
+#, php-format
+msgid "Are you sure you want to %s the selected comments?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:142
+msgid "Date"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:186
+msgid "Delete comment"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/comments/index.php:192
+msgid "Are you sure you want to delete this comment?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/emails/frm.php:48
+#, php-format
+msgid "Edit email template &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/emails/frm.php:56
+msgid "Edit email template"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/emails/frm.php:66
+msgid "Internal name"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/emails/frm.php:69
+msgid "Used to identify the email template"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/emails/index.php:35
+#, php-format
+msgid "Emails templates &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/emails/index.php:42
+msgid "Emails templates"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/iframe.php:31
+msgid "Edit custom field"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/iframe.php:37
+msgid "Type"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/iframe.php:41
+msgid "Options"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/iframe.php:44
+msgid "Separate the options by commas"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/iframe.php:49
+msgid "This field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/iframe.php:52
+msgid "Select the categories where you want to apply these attribute:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/iframe.php:55
+msgid "Check all"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/iframe.php:56
+msgid "Uncheck all"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/iframe.php:67
+msgid "Advanced options"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/iframe.php:71
+msgid "Identifier name"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/iframe.php:74
+msgid "Only alphanumeric characters are allowed [a-z0-9_-]"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/index.php:33
+msgid "Add custom field"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/index.php:144
+msgid "Custom field could not be added"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/index.php:177
+#, php-format
+msgid "Custom fields &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/index.php:184
+msgid "Custom fields"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/index.php:193
+msgid "You don't have any custom fields yet"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/index.php:217
+msgid "Delete custom field"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/fields/index.php:220
+msgid "Are you sure you want to delete this custom field?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:25
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:26
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:30
+msgid "Add listing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:29
+msgid "Edit listing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:30
+msgid "Update listing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:139
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:187
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:366
+msgid "Category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:147
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:160
+msgid "Price"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:154
+msgid "Photos"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:159
+msgid "optional"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:163
+msgid "Add new photo"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:175
+msgid "Non-registered user"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:192
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:203
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:368
+msgid "Region"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:196
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:211
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:369
+msgid "City"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:200
+msgid "City area"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/frm.php:204
+msgid "Address"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:37
+#, php-format
+msgid "Manage listings &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:84
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:60
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:60
+msgid "Delete listing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:121
+msgid "Filters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:179
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:320
+msgid "Pattern"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:195
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:367
+msgid "Country"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:223
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:321
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:365
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:161
+msgid "User"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:232
+msgid "Premium"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:236
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:248
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:260
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:272
+msgid "Choose an option"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:237
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:249
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:261
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:273
+msgid "ON"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:238
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:250
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:262
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:274
+msgid "OFF"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:268
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:163
+msgid "Spam"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:285
+msgid "Apply filters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:286
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:310
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:134
+msgid "Reset filters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:290
+msgid "Manage listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:300
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:301
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:302
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:303
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:127
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:128
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:129
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:130
+#, php-format
+msgid "%d Listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:312
+msgid "Show filters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:322
+msgid "Item ID"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:336
+msgid "Find"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:347
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:348
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:349
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:350
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:351
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:352
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:353
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:354
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:355
+#, php-format
+msgid "Are you sure you want to %s the selected listings?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/index.php:422
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:219
+msgid "Are you sure you want to delete this listing?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:35
+#, php-format
+msgid "Reported listings &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:117
+msgid "Reported listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:145
+#, php-format
+msgid "Are you sure you want to %s the selected items?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:146
+msgid "Are you sure you want to clear all the reportings of the selected items?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:147
+msgid "Are you sure you want to clear the spam reportings of the selected items?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:148
+msgid "Are you sure you want to clear the misclassified reportings of the selected items?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:148
+msgid "Clear Missclassified"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:149
+msgid "Are you sure you want to clear the duplicated reportings of the selected items?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:150
+msgid "Are you sure you want to clear the expired reportings of the selected items?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:151
+msgid "Are you sure you want to clear the offensive reportings of the selected items?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:166
+msgid "Misclassified"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:169
+msgid "Duplicated"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:172
+msgid "Expired"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/reported.php:175
+msgid "Offensive"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:58
+#, php-format
+msgid "Listing Settings &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:66
+msgid "Listing Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:78
+msgid "Only logged in users can post listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:82
+#, php-format
+msgid "An user has to wait %s seconds between each listing added"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:84
+msgid "If the value is zero, there is no waiting"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:90
+msgid "Users have to validate their listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:94
+#, php-format
+msgid "After %s validated listings the user doesn't longer need to validate the listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:96
+msgid "If the value is zero, it means that each listing must be validated"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:102
+msgid "Logged in users don't need to validate their listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:108
+msgid "Show reCAPTCHA in add/edit listing form"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:110
+msgid "<strong>Remember</strong> that you must configure reCAPTCHA first"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:115
+msgid "Contact publisher"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:120
+msgid "Only allow registered users to contact publisher"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:126
+msgid "Allow attach files in contact publisher form"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:132
+msgid "Notifications"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:137
+msgid "Notify admin when a new listing is added"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:143
+msgid "Send a copy to admin of the contact publisher e-mail"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:149
+msgid "Send a copy to admin of the share listing e-mail"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:155
+msgid "Optional fields"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:165
+msgid "Attach images"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:169
+#, php-format
+msgid "Attach %s images per listing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/items/settings.php:170
+msgid "If the value is zero, it means unlimited number of images"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/add.php:26
+#, php-format
+msgid "Add language &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/add.php:32
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:29
+msgid "Add language"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/add.php:37
+#, php-format
+msgid "Download more languages at %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/add.php:44
+msgid "Language package (.zip)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/add.php:56
+msgid "Cannot install a new language"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/add.php:59
+msgid "The translations folder is not writable on your server and you cannot upload translations from the administration panel. Please make the translation folder writable"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/frm.php:26
+#, php-format
+msgid "Edit language &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/frm.php:46
+msgid "Edit language"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/frm.php:62
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:136
+msgid "Short name"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/frm.php:74
+msgid "Currency format"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/frm.php:80
+msgid "Number of decimals"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/frm.php:86
+msgid "Decimal point"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/frm.php:92
+msgid "Thousands separator"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/frm.php:98
+msgid "Date format"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/frm.php:104
+msgid "Stopwords"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/frm.php:111
+msgid "Enabled for the public website"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/frm.php:112
+msgid "Enabled for the backoffice (oc-admin)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:36
+#, php-format
+msgid "Languages &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:109
+msgid "Manage Languages"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:121
+msgid "Bulk Actions"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:122
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:123
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:124
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:125
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:126
+#, php-format
+msgid "Are you sure you want to %s the selected languages?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:122
+msgid "Enable (Website)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:123
+msgid "Disable (Website)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:138
+msgid "Enabled (website)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:139
+msgid "Enabled (oc-admin)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/languages/index.php:179
+msgid "Are you sure you want to delete this language?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:32
+msgid "Dashboard"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:37
+#, php-format
+msgid "Dashboard &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:109
+msgid "Users"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:222
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:225
+msgid "New listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:222
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:231
+msgid "New users"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:226
+#, php-format
+msgid "Total number of listings: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:228
+msgid "Listing statistics"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:232
+#, php-format
+msgid "Total number of users: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:234
+msgid "User statistics"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:243
+msgid "OSClass"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:245
+msgid "Newsletter"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:253
+msgid "Want the latest tips and updates delivered to your inbox? <strong>Sign up now!</strong>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:258
+msgid "Subscribe"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:264
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:285
+msgid "Donate"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:276
+msgid "OSClass is a free, open-source project, sustained by the community. Money received from donations will be used to further the development and improve the project."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:284
+msgid "Custom"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:298
+msgid "Latest news"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:300
+msgid "Blog"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/main/index.php:316
+msgid "Twitter"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:27
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/index.php:27
+msgid "Manage Plugins"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:29
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/add.php:41
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/index.php:29
+msgid "Add plugin"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:36
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/configuration.php:58
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/index.php:46
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/view.php:26
+#, php-format
+msgid "Plugins &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:79
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/index.php:100
+msgid "Updates"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:82
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/index.php:103
+msgid "Available plugins"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:85
+msgid "Latest plugins on market"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:111
+#: /var/www/osclass-git/oc-admin/themes/modern/market/themes.php:88
+msgid "Compatible with"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:125
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:264
+#: /var/www/osclass-git/oc-admin/themes/modern/market/themes.php:102
+#: /var/www/osclass-git/oc-admin/themes/modern/market/themes.php:235
+msgid "Continue download"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:153
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/index.php:269
+msgid "The plugin have been downloaded correctly, proceed to install and configure."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:195
+#: /var/www/osclass-git/oc-admin/themes/modern/market/themes.php:167
+msgid "Already downloaded"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:198
+msgid "Download plugin"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/plugins.php:254
+#, php-format
+msgid "Warning! This plugin is not compatible with your current version of OSClass (%s)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/themes.php:62
+msgid "Latest themes on market"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/themes.php:170
+msgid "Download theme"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/market/themes.php:224
+#, php-format
+msgid "Warning! This theme is not compatible with your current version of OSClass (%s)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/media/index.php:27
+msgid "Manage Media"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/media/index.php:36
+#, php-format
+msgid "Media &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/media/index.php:60
+msgid "Delete media"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/media/index.php:118
+#, php-format
+msgid "Are you sure you want to %s the selected media files?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/media/index.php:128
+msgid "Attached to"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/media/index.php:172
+msgid "Are you sure you want to delete this media file?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/frm.php:27
+msgid "Edit page"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/frm.php:32
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/frm.php:34
+msgid "Add page"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/frm.php:41
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/index.php:27
+msgid "Pages"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/frm.php:88
+msgid "Used to identify quickly this page"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/index.php:29
+msgid "Create page"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/index.php:36
+#, php-format
+msgid "Pages &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/index.php:137
+msgid "Manage pages"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/index.php:147
+#, php-format
+msgid "Are you sure you want to %s the selected pages?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/index.php:158
+msgid "Order"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/index.php:192
+msgid "Delete page"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/pages/index.php:198
+msgid "Are you sure you want to delete this page?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/parts/footer.php:7
+#, php-format
+msgid "Thank you for using <a href=\"%s\" target=\"_blank\">OSClass</a>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/parts/footer.php:8
+msgid "Documentation"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/parts/footer.php:9
+msgid "Forums"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/add.php:28
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/configuration.php:25
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/view.php:21
+msgid "Plugins"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/add.php:35
+#, php-format
+msgid "Add plugin &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/add.php:46
+#, php-format
+msgid "Download more plugins at %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/add.php:53
+msgid "Plugin package (.zip)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/add.php:65
+msgid "Cannot install a new plugin"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/add.php:68
+msgid "The plugin folder is not writable on your server and you cannot upload plugins from the administration panel. Please make the folder writable"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/index.php:36
+msgid "Plugin couldn't be installed because it triggered a <strong>fatal error</strong>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/index.php:71
+msgid "Uninstall plugin"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/plugins/index.php:236
+msgid "This action can not be undone. Uninstalling plugins may result in a permanent lost of data. Are you sure you want to continue?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:39
+msgid "Moderated comments: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:40
+msgid "Moderated comments: this field has to be numeric only"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:43
+msgid "Comments per page: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:44
+msgid "Comments per page: this field has to be numeric only"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:91
+#, php-format
+msgid "Comments Settings &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:103
+msgid "Comments Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:106
+msgid "Default comment settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:110
+msgid "Allow people to post comments on listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:115
+msgid "Users must be registered and logged in to comment"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:120
+msgid "A comment is held for moderation"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:124
+#, php-format
+msgid "Before a comment appears, comment author must have %s previously approved comment"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:125
+msgid "If the value is zero an administrator must always approve the comment"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:130
+msgid "Other comment settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:132
+#, php-format
+msgid "Break comments into pages with %s comments per page"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:133
+msgid "If the value is zero all the comments are shown"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:140
+msgid "E-mail admin whenever"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:144
+msgid "There is a new comment"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:150
+msgid "E-mail user whenever"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/comments.php:154
+msgid "There is a new comment in his listing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currencies.php:36
+#, php-format
+msgid "Currencies &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currencies.php:123
+msgid "Currencies"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currencies.php:135
+#, php-format
+msgid "Are you sure you want to %s the selected currencies?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currencies.php:143
+msgid "Code"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currencies.php:166
+msgid "Delete currency"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currencies.php:173
+msgid "Are you sure you want to delete this currency?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currency_form.php:40
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currency_form.php:41
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currency_form.php:42
+msgid "Currency code: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currency_form.php:45
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currency_form.php:46
+msgid "Name: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currency_form.php:76
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currency_form.php:77
+msgid "Add currency"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currency_form.php:80
+msgid "Edit currency"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currency_form.php:81
+msgid "Update currency"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currency_form.php:109
+msgid "Currency Code"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/currency_form.php:112
+msgid "It should be a three-character code"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:57
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:58
+msgid "Page title: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:61
+msgid "Email: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:62
+msgid "Invalid email address"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:65
+msgid "RSS shows: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:66
+msgid "RSS shows: this field has to be numeric only"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:69
+msgid "The latest listings show: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:70
+msgid "The latest listings show: this field has to be numeric only"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:73
+msgid "The search page shows: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:74
+msgid "The search page shows: this field has to be numeric only"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:137
+#, php-format
+msgid "General Settings &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:145
+msgid "General Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:153
+msgid "Page title"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:157
+msgid "Page description"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:160
+msgid "Admin e-mail"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:163
+msgid "Default language"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:173
+msgid "Default currency"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:183
+msgid "Week starts on"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:186
+msgid "Sunday"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:187
+msgid "Monday"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:188
+msgid "Tuesday"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:189
+msgid "Wednesday"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:190
+msgid "Thursday"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:191
+msgid "Friday"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:192
+msgid "Saturday"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:197
+msgid "Timezone"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:202
+msgid "Select a timezone..."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:210
+msgid "Date & time format"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:253
+msgid "Documentation on date and time formatting"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:257
+msgid "RSS shows"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:260
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:274
+msgid "listings at most"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:264
+msgid "The latest listings show"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:267
+msgid "Listings at most"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:271
+msgid "The search page shows"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:277
+msgid "Categories Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:279
+msgid "Parent categories"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:284
+msgid "Allow users to select as a category when inserting or editing a listing a parent category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:289
+msgid "Contact Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:291
+msgid "Attachments"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:296
+msgid "Allow people to attach a file to the contact form"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:301
+msgid "Cron Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:303
+msgid "Automatic cron process"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:308
+#, php-format
+msgid "Allow OSClass to run a built-in <a href=\"%s\" target=\"_blank\">cron</a> automatically without setting crontab"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:311
+msgid "It is <b>recommended</b> to have this option enabled, because some features require it."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:314
+msgid "Check plugin & theme updates"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:317
+#, php-format
+msgid "Last checked on %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/index.php:317
+msgid "Check updates"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:29
+msgid "Delete location"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:35
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:260
+msgid "View more"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:39
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:122
+msgid "Edit country"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:40
+msgid "Add new country"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:41
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:171
+msgid "Edit region"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:42
+msgid "Add new region"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:43
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:222
+msgid "Edit city"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:44
+msgid "Add new city"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:75
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:80
+msgid "Locations"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:88
+msgid "Country code should have two characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:93
+msgid "Country code"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:102
+msgid "Add country"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:147
+msgid "Add region"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:198
+msgid "Add city"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:246
+msgid "Countries"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:273
+msgid "Regions"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:283
+msgid "Cities"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/locations.php:296
+msgid "This action can not be undone. Items with this location associated will be deleted. Are you sure you want to continue?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:81
+#, php-format
+msgid "Mail Settings &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:89
+msgid "Mail Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:97
+msgid "Server type"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:100
+msgid "Custom Server"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:101
+msgid "GMail Server"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:106
+msgid "Hostname"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:112
+msgid "Server port"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:130
+msgid "Encryption"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:133
+msgid "Options: blank, ssl or tls"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:136
+msgid "Apache Module <b>mod_ssl</b> is not loaded"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:142
+msgid "SMTP"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:145
+msgid "SMTP authentication enabled"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:149
+msgid "POP"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/mailserver.php:152
+msgid "Use POP before SMTP"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:35
+msgid "Size is not in the correct format"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:58
+msgid "Thumbnail size: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:59
+msgid "Thumbnail size: is not in the correct format"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:62
+msgid "Preview size: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:63
+msgid "Preview size: is not in the correct format"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:66
+msgid "Normal size: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:67
+msgid "Normal size: is not in the correct format"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:70
+msgid "Maximum size: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:71
+msgid "Maximum size: this field has to be numeric only"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:158
+#, php-format
+msgid "Media Settings &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:165
+msgid "Media Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:172
+msgid "Images sizes"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:174
+msgid "The sizes listed below determine the maximum dimensions in pixels to use when uploading a image. Format: <b>Width</b> x <b>Height</b>."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:175
+msgid "Thumbnail size"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:179
+msgid "Preview size"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:183
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:187
+msgid "Normal size"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:191
+msgid "Keep original image, unaltered after uploading."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:192
+msgid "It might occupy more space than usual."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:196
+msgid "Restrictions"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:198
+msgid "Maximum size"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:201
+msgid "Size in KB"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:203
+#, php-format
+msgid "Maximum size PHP configuration allows: %d KB"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:208
+msgid "Allowed formats"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:211
+msgid "For example: jpg, png, gif"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:215
+msgid "ImageMagick"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:219
+msgid "Use ImageMagick instead of GD library"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:223
+msgid "ImageMagick library is not loaded"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:226
+msgid "It's faster and consumes less resources than GD library."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:229
+msgid "Watermark"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:231
+msgid "Watermark type"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:235
+msgid "None"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:239
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:255
+msgid "Text"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:242
+#, php-format
+msgid "Freetype library is required. How to <a target=\"_blank\" href=\"%s\">install/configure</a>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:248
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:282
+msgid "Image"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:253
+msgid "Watermark Text Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:261
+msgid "Color"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:267
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:293
+msgid "Position"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:270
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:296
+msgid "Centre"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:271
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:297
+msgid "Top Left"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:272
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:298
+msgid "Top Right"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:273
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:299
+msgid "Bottom Left"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:274
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:300
+msgid "Bottom Right"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:280
+msgid "Watermark Image Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:288
+msgid "It has to be a .PNG image"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:289
+msgid "OSClass doesn't check the watermark image size"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:305
+msgid "Regenerate images"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:309
+msgid "You can regenerate your different image dimensions. If you have changed the dimension of thumbnails, preview or normal images, you might want to regenerate your images."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:311
+msgid "Regenerate"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:322
+msgid "Recommendation"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/media.php:325
+msgid "It's highly recommended to have 'Keep original image' option active when you use watermarks."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:171
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:172
+msgid "Listings url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:175
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:176
+msgid "Page url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:179
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:180
+msgid "Categories url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:183
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:184
+msgid "Search url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:187
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:188
+msgid "Search country: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:191
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:192
+msgid "Search region: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:195
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:196
+msgid "Search city: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:199
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:200
+msgid "Search city area: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:203
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:204
+msgid "Search category: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:207
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:208
+msgid "Search user: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:211
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:212
+msgid "Search pattern: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:215
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:216
+msgid "Contact url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:219
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:220
+msgid "Feed url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:223
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:224
+msgid "Language url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:227
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:228
+msgid "Listing mark url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:231
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:232
+msgid "Listing send friend url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:235
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:236
+msgid "Listing contact url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:239
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:240
+msgid "New listing url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:243
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:244
+msgid "Activate listing url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:247
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:248
+msgid "Edit listing url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:251
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:252
+msgid "Delete listing url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:255
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:256
+msgid "Delete listing resource url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:259
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:260
+msgid "Login url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:263
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:264
+msgid "User dashboard url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:267
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:268
+msgid "Logout url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:271
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:272
+msgid "User register url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:275
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:276
+msgid "Activate user url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:279
+msgid "Activate alert url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:280
+msgid "Activate aler url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:283
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:284
+msgid "User profile url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:287
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:288
+msgid "User listings url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:291
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:292
+msgid "User alerts url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:295
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:296
+msgid "Recover user url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:299
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:300
+msgid "User forgot url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:303
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:304
+msgid "Change password url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:307
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:308
+msgid "Change email url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:311
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:312
+msgid "Change email confirm url: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:325
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:329
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:388
+msgid "Show rules"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:326
+msgid "Hide rules"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:363
+#, php-format
+msgid "Permalinks &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:371
+msgid "Permalinks"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:372
+msgid "By default OSClass uses web URLs which have question marks and lots of numbers in them. However, OSClass offers you friendly urls. This can improve the aesthetics, usability, and forward-compatibility of your links"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:380
+msgid "Enable friendly urls"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:393
+msgid "Listing URL:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:397
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:406
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:415
+#, php-format
+msgid "Accepted keywords: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:402
+msgid "Page URL:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:411
+msgid "Category URL:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:420
+msgid "Search URL:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:426
+msgid "Search keyword country"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:432
+msgid "Search keyword region"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:438
+msgid "Search keyword city"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:444
+msgid "Search keyword city area"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:450
+msgid "Search keyword category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:456
+msgid "Search keyword user"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:462
+msgid "Search keyword pattern"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:468
+msgid "Contact"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:474
+msgid "Feed"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:480
+msgid "Language"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:486
+msgid "Listing mark"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:492
+msgid "Listing send friend"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:498
+msgid "Listing contact"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:504
+msgid "Listing new"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:510
+msgid "Listing activate"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:516
+msgid "Listing edit"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:522
+msgid "Listing delete"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:528
+msgid "Listing resource delete"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:534
+msgid "User login"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:540
+msgid "User dashboard"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:546
+msgid "User logout"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:552
+msgid "User register"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:558
+msgid "User activate"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:564
+msgid "User activate alert"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:570
+msgid "User profile"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:576
+msgid "User listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:582
+msgid "User alerts"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:588
+msgid "User recover"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:594
+msgid "User forgot"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:600
+msgid "User change password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:606
+msgid "User change email"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/permalinks.php:612
+msgid "User change email confirm"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:45
+msgid "Custom number: this field has to be numeric only"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:46
+msgid "Custom number: this field could not be left empty"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:81
+#, php-format
+msgid "Latest searches Settings &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:89
+msgid "Latest searches Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:97
+msgid "Latest searches"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:101
+msgid "Save the latest user searches"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:102
+msgid "It may be useful to know what queries users do."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:107
+msgid "How long are stored the queries"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:111
+msgid "One hour"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:115
+msgid "One day"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:119
+msgid "One week"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:123
+msgid "Forever"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:127
+msgid "Store 1000 queries"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:131
+#, php-format
+msgid "Store %s queries"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/searches.php:133
+msgid "This feature can generate a lot of data. It's recommended to purge this data periodically."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:39
+#, php-format
+msgid "Spam and bots &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:45
+msgid "Spam and bots"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:47
+msgid "Akismet"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:48
+msgid "Akismet is a hosted web service that saves you time by automatically detecting comment and trackback spam. It's hosted on our servers, but we give you access to it through plugins and our API."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:55
+msgid "Akismet API Key"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:65
+msgid "This key is valid"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:69
+msgid "The key you entered is invalid. Please double-check it"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:73
+#, php-format
+msgid "Akismet is disabled, please enter an API key. <a href=\"%s\" target=\"_blank\">(Get your key)</a>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:90
+msgid "reCAPTCHA"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:91
+#, php-format
+msgid "reCAPTCHA helps prevent automated abuse of your site by using a CAPTCHA to ensure that only humans perform certain actions. <a href=\"%s\" target=\"_blank\">Get your key</a>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:98
+msgid "reCAPTCHA Public key"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:104
+msgid "reCAPTCHA Private key"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/settings/spamNbots.php:111
+msgid "If you see the reCAPTCHA form it means that you have correctly entered the public key"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/comments.php:26
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/comments.php:138
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:28
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:196
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/reports.php:23
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/reports.php:142
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:29
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:170
+msgid "Last 10 weeks"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/comments.php:29
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/comments.php:137
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:31
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:195
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/reports.php:26
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/reports.php:141
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:32
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:169
+msgid "Last 10 months"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/comments.php:32
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/comments.php:139
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:34
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:197
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/reports.php:29
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/reports.php:143
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:35
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:171
+msgid "Last 10 days"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/comments.php:132
+msgid "Comments Statistics"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/comments.php:152
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/comments.php:186
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:210
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:227
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:261
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/reports.php:156
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:184
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:201
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:218
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:250
+msgid "There're no statistics yet"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/comments.php:162
+msgid "Latest comments on the web"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:58
+#, php-format
+msgid "Listing Statistics &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:85
+msgid "Items"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:87
+msgid "Views"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:190
+msgid "Listing Statistics"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:204
+msgid "New listing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:207
+msgid "Number of new listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:221
+msgid "Listings' views"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:224
+msgid "Total number of listings' views"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/items.php:237
+msgid "Latest listings on the web"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/reports.php:71
+msgid "Repeated"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/reports.php:72
+msgid "Bad category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/reports.php:136
+msgid "Reports Statistics"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/reports.php:150
+msgid "Total number of reports"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:132
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:195
+msgid "Users per country"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:135
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:147
+msgid "Unknown"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:144
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:212
+msgid "Users per region"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:164
+msgid "User Statistics"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:228
+msgid "Latest users on the web"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:235
+msgid "E-Mail"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:261
+msgid "Avg. items per user"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/stats/users.php:264
+#, php-format
+msgid "%s listings per user"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/backup.php:45
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/category.php:32
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/import.php:32
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/locations.php:73
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/maintenance.php:34
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/upgrade.php:85
+#: /var/www/osclass-git/oc-admin/themes/modern/upgrade/index.php:21
+msgid "Tools"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/backup.php:52
+#, php-format
+msgid "Backup &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/backup.php:60
+msgid "Backup"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/backup.php:67
+msgid "Backup folder"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/backup.php:71
+msgid "<strong>WARNING</strong>: If you don't specify a backup folder, the backup files will be created in the root of your OSClass installation."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/backup.php:73
+msgid "This is the folder in which your backups will be created. We recommend that you choose a non-public path."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/backup.php:78
+msgid "Backup SQL (store on server)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/backup.php:79
+msgid "Backup files (download file)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/backup.php:80
+msgid "Backup files (store on server)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/category.php:39
+#, php-format
+msgid "Category stats &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/category.php:47
+msgid "Category stats"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/category.php:49
+msgid "You can recalculate stats by category, useful if the stats seems to be incorrect."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/category.php:57
+msgid "Calculate category stats"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/import.php:39
+#, php-format
+msgid "Import &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/import.php:46
+msgid "Import"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/import.php:53
+msgid "File (.sql)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/import.php:59
+msgid "Import data"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/locations.php:80
+#, php-format
+msgid "Location stats &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/locations.php:88
+msgid "Locations stats"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/locations.php:91
+msgid "Complete"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/locations.php:95
+msgid "You can recalculate your locations stats. This is useful if you upgrade from versions below OSClass 2.4"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/locations.php:103
+msgid "Calculate locations stats"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/maintenance.php:49
+msgid "Maintenance"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/maintenance.php:54
+msgid "While in maintenance mode, users can not access your website. Useful if you need to make some changes on your website. Use the following button to toggle ON/OFF maintenance mode."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/maintenance.php:56
+#, php-format
+msgid "Maintenance mode is: <strong>%s</strong>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/maintenance.php:60
+msgid "Disable maintenance mode"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/maintenance.php:60
+msgid "Enable maintenance mode"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/upgrade.php:43
+#, php-format
+msgid "Checking for updates (Current version %s)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/upgrade.php:47
+msgid "Congratulations! Your OSClass installation is up to date!"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/upgrade.php:49
+msgid "New version to update:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/upgrade.php:51
+msgid "Upgrading your OSClass installation (this could take a while):"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/upgrade.php:61
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/upgrade.php:100
+#: /var/www/osclass-git/oc-admin/themes/modern/upgrade/index.php:26
+#: /var/www/osclass-git/oc-admin/themes/modern/upgrade/index.php:56
+msgid "Upgrade"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/upgrade.php:92
+#, php-format
+msgid "Upgrade &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/upgrade.php:108
+#, php-format
+msgid "Your OSClass installation can be auto-upgraded. Please, backup your database and the folder oc-content before attempting to upgrade your OSClass installation. You can also upgrade OSClass manaully, more information in the %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/tools/upgrade.php:112
+msgid "Your OSClass installation can not be auto-upgraded. Files and folders need to be writable. You could apply write permissions via SSH with the command \"chmod -R a+w *\" (without quotes) or via a FTP client, it depends on the program so we can not provide more information. You could also upgrade OSClass downloading the upgrade package, unzip it and replace the files on your server with the ones on the package."
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/upgrade/index.php:60
+msgid "Upgrading your OSClass installation (this could take a while): "
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/upgrade/index.php:64
+msgid "You have uploaded a new version of OSClass, you need to upgrade OSClass for a correct functioning"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/upgrade/index.php:66
+msgid "Upgrade now"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:32
+msgid "Update user"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:35
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:37
+msgid "Add new user"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:82
+msgid "Contact info"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:92
+msgid "Last access"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:95
+#, php-format
+msgid "%s on %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:107
+msgid "(required)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:113
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:126
+msgid "Cell phone"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:120
+msgid "Phone"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:132
+msgid "Website"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:137
+msgid "About yourself"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:139
+msgid "User type"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:145
+msgid "Additional information"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:150
+msgid "Location"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:183
+msgid "(twice, required)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/frm.php:187
+msgid "If you would like to change the password type a new one. Otherwise leave this blank"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:37
+#, php-format
+msgid "Manage users &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:109
+msgid "Manage users"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:130
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:131
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:132
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:133
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:134
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:136
+#, php-format
+msgid "Are you sure you want to %s the selected users?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:136
+msgid "Resend the activation to"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:136
+msgid "Resend activation"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:149
+msgid "Update Date"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:180
+msgid "Delete user"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/index.php:186
+msgid "Are you sure you want to delete this user?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/settings.php:35
+#, php-format
+msgid "Users Settings &raquo; %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/settings.php:41
+msgid "Users Settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/settings.php:52
+msgid "Users enabled"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/settings.php:58
+msgid "Anyone can register"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/settings.php:64
+msgid "Users need to validate their account"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/settings.php:69
+msgid "Admin notifications"
+msgstr ""
+
+#: /var/www/osclass-git/oc-admin/themes/modern/users/settings.php:73
+msgid "When a new user is registered"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/emails.php:74
+#: /var/www/osclass-git/oc-includes/osclass/emails.php:119
+#: /var/www/osclass-git/oc-includes/osclass/emails.php:164
+#: /var/www/osclass-git/oc-includes/osclass/emails.php:209
+msgid "unsubscribe alert"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/emails.php:720
+#: /var/www/osclass-git/oc-includes/osclass/emails.php:723
+#: /var/www/osclass-git/oc-includes/osclass/emails.php:1160
+msgid "Admin mail system"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:49
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:139
+msgid "Search results"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:81
+msgid "Publish a listing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:82
+msgid "Edit your listing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:83
+msgid "Send to a friend"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:84
+msgid "Contact seller"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:92
+msgid "Error"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:103
+msgid "page"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:113
+msgid "Show all listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:150
+msgid "Recover your password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:151
+msgid "Login"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:155
+msgid "Create a new account"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:160
+msgid "Manage my listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:161
+msgid "Manage my alerts"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:162
+msgid "Update my profile"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:163
+msgid "Public profile"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:164
+msgid "Change my email"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:165
+msgid "Change my password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:166
+msgid "Recover my password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:364
+msgid "Logout"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:374
+msgid "New comments"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:439
+msgid "Plugin updates"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/functions.php:487
+msgid "Themes updates"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:59
+msgid "PHP version >= 5.x"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:61
+msgid "PHP5 is required to run OSClass. You may talk with your hosting to upgrade your PHP version."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:64
+msgid "MySQLi extension for PHP"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:66
+msgid "MySQLi extension is required. How to <a target=\"_blank\" href=\"http://www.php.net/manual/en/mysqli.setup.php\">install/configure</a>."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:69
+msgid "GD extension for PHP"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:71
+msgid "GD extension is required. How to <a target=\"_blank\" href=\"http://www.php.net/manual/en/image.setup.php\">install/configure</a>."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:74
+msgid "Folder <code>oc-content/uploads</code> exists"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:76
+#, php-format
+msgid "You have to create <code>uploads</code> folder, i.e.: <code>mkdir %soc-content/uploads/</code>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:79
+msgid "Folder <code>oc-content/uploads</code> is writable"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:81
+#, php-format
+msgid "Folder <code>uploads</code> has to be writable, i.e.: <code>chmod a+w %soc-content/uploads/</code>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:84
+msgid "Folder <code>oc-content/languages</code> exists"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:86
+#, php-format
+msgid "You have to create <code>languages</code> folder, i.e.: <code>mkdir %soc-content/languages/</code>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:97
+msgid "File <code>config.php</code> is writable"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:99
+#, php-format
+msgid "File <code>config.php</code> has to be writable, i.e.: <code>chmod a+w %sconfig.php</code>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:105
+msgid "Root directory is writable"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:107
+#, php-format
+msgid "Root folder has to be writable, i.e.: <code>chmod a+w %s</code>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:113
+msgid "File <code>config-sample.php</code> exists"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:115
+msgid "File <code>config-sample.php</code> is required, you should download OSClass again."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:192
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:204
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:241
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:253
+#, php-format
+msgid "Cannot connect to the database. Error number: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:196
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:245
+msgid "The database doesn't exist. You should check the \"Create DB\" checkbox and fill username and password with the right privileges"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:198
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:247
+msgid "Cannot connect to the database. Check if the user has privileges."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:200
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:249
+msgid "Cannot connect to the database. Check if the username and password are correct."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:202
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:251
+msgid "Cannot resolve MySQL host. Check if the host is correct."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:217
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:224
+#, php-format
+msgid "Cannot create the database. Error number: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:221
+msgid "Cannot create the database. Check if the admin username and password are correct."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:261
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:263
+msgid "Cannot write in config.php file. Check if the file is writable."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:269
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:272
+msgid "config-sample.php doesn't exist. Check if you have everything well decompressed."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:276
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:279
+msgid "Can't copy config-sample.php. Check if the root directory is writable."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:296
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:302
+#, php-format
+msgid "Cannot create the database structure. Error number: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:300
+msgid "There are tables with the same name in the database. Change the table prefix or the database and try again."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:341
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:344
+#, php-format
+msgid "The file %s doesn't exist"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:355
+#, php-format
+msgid "Cannot insert basic configuration. Error number: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:359
+msgid "Cannot insert basic configuration. This user has no privileges to 'INSERT' into the database."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:361
+msgid "Cannot insert basic configuration. Error number: "
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:584
+msgid "Database information"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:589
+msgid "Host"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:591
+msgid "Server name or IP where the database engine resides"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:594
+msgid "Database name"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:596
+msgid "The name of the database you want to run OSClass in"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:599
+msgid "User Name"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:601
+msgid "Your MySQL username"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:606
+msgid "Your MySQL password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:609
+msgid "Table prefix"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:611
+msgid "If you want to run multiple OSClass installations in a single database, change this"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:617
+msgid "Advanced"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:639
+msgid "Create DB"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:640
+msgid "Check here if the database is not created and you want to create it now"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:643
+msgid "DB admin username"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:648
+msgid "DB admin password"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:667
+msgid "Information needed"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:669
+msgid "Admin user"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:677
+msgid "Admin user is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:689
+msgid "A password will be automatically generated for you if you leave this blank."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:690
+msgid "You can modify username and password if you like, only need change the inputs value."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:692
+msgid "Contact information"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:696
+msgid "Web title"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:701
+msgid "Contact e-mail"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:703
+msgid "Put your e-mail here"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:708
+msgid "Choose countries/cities where your target users are located"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:710
+msgid "Once you write a country, you'll be able to choose region and city too. Therefore, the intallation'll be more specific."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:719
+msgid "Worldwide"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:728
+msgid "Region/City targeting is only available when you choose only \"one country\""
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:732
+msgid "Click here if you want to specify region/regions or city/cities"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:737
+msgid "By Region"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:739
+msgid "By City"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:750
+msgid "No internet connection. You can continue the installation and insert countries later."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:760
+msgid "Continue installation process and insert countries later"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:778
+msgid "Go back"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:810
+msgid "The selected location could not been installed"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:821
+msgid "Select your classified categories"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:821
+msgid "or"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:821
+msgid "Skip"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:821
+msgid "You can add/remove categories after the installation, using the admin dashboard"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:893
+msgid "Congratulations!"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:894
+msgid "OSClass has been installed. Were you expecting more steps? Sorry to disappoint."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:895
+#, php-format
+msgid "An e-mail with the password for oc-admin has been sent to: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-functions.php:920
+msgid "Finish and go to the administration panel"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-location.php:95
+#, php-format
+msgid "Welcome %s,"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-location.php:96
+#, php-format
+msgid "Your OSClass installation at %s is up and running. You can access to the administration panel with this data access:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-location.php:98
+#, php-format
+msgid "username: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-location.php:99
+#, php-format
+msgid "password: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-location.php:101
+msgid "Regards,"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install-location.php:102
+msgid "The <a href=\"http://osclass.org/\">OSClass</a> team"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:88
+msgid "You appear to have already installed OSClass. To reinstall please clear your old database tables first."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:134
+msgid "OSClass Installation"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:162
+msgid "Welcome"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:167
+msgid "Choose language"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:176
+msgid "Check the next requirements:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:178
+msgid "Requirements help:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:185
+msgid "Need more help?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:189
+msgid "All right! All the requirements have met:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:199
+msgid "Allow my site to appear in search engines like Google."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:205
+msgid "Help make OSClass better by automatically sending usage statistics and crash reports to OSClass."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:211
+msgid "Try again"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:215
+msgid "Run the install"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:241
+msgid "Readme"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/install.php:244
+msgid "Feedback"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/ItemActions.php:60
+msgid "Anonymous"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/ItemActions.php:809
+msgid "Message: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/ItemActions.php:811
+msgid "Your name: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/plugins.php:100
+#, php-format
+msgid "Plugin %s is missing the index.php file %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/upgrade-funcs.php:44
+msgid "OSClass &raquo; Has some errors"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/upgrade-funcs.php:45
+msgid "We encountered some problems updating the database structure. The following queries failed:"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/upgrade-funcs.php:47
+#, php-format
+msgid "These errors could be false-positive errors. If you're sure that is the case, you could <a href=\"%s\">continue with the upgrade</a>, or <a href=\"http://forums.osclass.org/\">ask in our forums</a>."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/upgrade-funcs.php:286
+msgid "You need to calculate locations stats, please go to admin panel, tools, recalculate location stats or click"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/upgrade-funcs.php:286
+msgid "here"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/upgrade-funcs.php:391
+msgid "OSClass &raquo; Updated correctly"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/upgrade-funcs.php:392
+msgid "OSClass has been updated successfully. <a href=\"http://forums.osclass.org/\">Need more help?</a>"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:51
+msgid "Manage media"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:59
+msgid "Manage themes"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:61
+msgid "Manage widgets"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:64
+msgid "Manage plugins"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:69
+msgid "Reports"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:74
+msgid "General"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:77
+msgid "E-mail templates"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:78
+msgid "Languages"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:82
+msgid "Mail server"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:83
+msgid "Media"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:84
+msgid "Last searches"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:90
+msgid "User settings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:91
+msgid "Administrators"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:92
+msgid "Your Profile"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:96
+msgid "Backup data"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:97
+msgid "Upgrade OSClass"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:98
+msgid "Location stats"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/AdminMenu.php:100
+msgid "Maintenance mode"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/Breadcrumb.php:172
+#, php-format
+msgid "Search results: %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/Breadcrumb.php:195
+#, php-format
+msgid "%s's profile"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/Breadcrumb.php:202
+msgid "Account"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/Breadcrumb.php:208
+msgid "My listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/Breadcrumb.php:212
+msgid "My alerts"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/classes/Breadcrumb.php:216
+msgid "My profile"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Admin.form.class.php:56
+msgid "Moderator"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Admin.form.class.php:99
+msgid "Name: enter at least 3 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Admin.form.class.php:100
+msgid "Name: no more than 50 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Admin.form.class.php:103
+msgid "Username: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Admin.form.class.php:104
+msgid "Username: enter at least 3 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Admin.form.class.php:105
+msgid "Username: no more than 50 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Admin.form.class.php:112
+msgid "Password: enter at least 5 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Admin.form.class.php:115
+msgid "Passwords don't match"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Alert.form.class.php:36
+msgid "Enter your e-mail"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Comment.form.class.php:110
+#: /var/www/osclass-git/oc-includes/osclass/frm/Comment.form.class.php:111
+msgid "Comment: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:53
+#: /var/www/osclass-git/oc-includes/osclass/frm/ManageItems.form.class.php:43
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hCategories.php:244
+msgid "Select a category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:216
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:99
+msgid "Select a country..."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:263
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:582
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:613
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:620
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:622
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:114
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:332
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:356
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:363
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:365
+msgid "Select a region..."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:289
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:606
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:616
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:626
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:628
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:656
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:129
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:351
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:359
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:369
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:371
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:400
+msgid "Select a city..."
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:434
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:703
+msgid "Description: needs to be longer"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:471
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:752
+msgid "Choose one category"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:474
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:755
+msgid "Price: no more than 50 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:476
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:757
+msgid "Currency: make your selection"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:480
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:761
+#, php-format
+msgid "Photo: must be %s"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:486
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:767
+msgid "Name: no more than 35 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:494
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:781
+msgid "Address: enter at least 3 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:495
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:782
+msgid "Address: no more than 100 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:528
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:815
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:774
+msgid "Select a region"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:775
+msgid "Select a city"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:777
+msgid "City area: enter at least 3 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:778
+msgid "City area: no more than 50 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:879
+msgid "Remove"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Item.form.class.php:891
+msgid "Sorry, you have reached the maximum number of images per ad"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:129
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:130
+msgid "Short name: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:137
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:138
+msgid "Currency format: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:141
+msgid "Number of decimals: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:142
+msgid "Number of decimals: this field has to be numeric only"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:145
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:146
+msgid "Decimal point: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:149
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:150
+msgid "Thousand separator: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:153
+#: /var/www/osclass-git/oc-includes/osclass/frm/Language.form.class.php:154
+msgid "Date format: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/Page.form.class.php:65
+msgid "Body"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/SendFriend.form.class.php:115
+msgid "Friend's name: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/SendFriend.form.class.php:118
+msgid "Friend's email: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/SendFriend.form.class.php:119
+msgid "Invalid friend's email address"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:153
+msgid "Company"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:160
+msgid "All"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:190
+msgid "Password: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:194
+msgid "Second password: this field is required"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:195
+#: /var/www/osclass-git/oc-includes/osclass/frm/User.form.class.php:293
+msgid "Second password: enter at least 5 characters"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hAdminMenu.php:112
+msgid "Compact"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hItems.php:1036
+msgid "Check with seller"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hItems.php:1037
+msgid "Free"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hPagination.php:115
+msgid "Page"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hPagination.php:118
+msgid "Go!"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hPagination.php:139
+#, php-format
+msgid "Showing %s to %s of %s results (filtered from %s total results)"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hPagination.php:141
+#, php-format
+msgid "Showing %s to %s of %s results"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hSearch.php:51
+msgid "Newly listed"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hSearch.php:52
+msgid "Lower price first"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hSearch.php:53
+msgid "Higher price first"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+msgid "January"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+msgid "February"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+msgid "March"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+msgid "April"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "May"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+msgid "June"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+msgid "July"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+msgid "August"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+msgid "September"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+msgid "October"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+msgid "November"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:129
+msgid "December"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "Jan"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "Feb"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "Mar"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "Apr"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "Jun"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "Jul"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "Aug"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "Sep"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "Oct"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "Nov"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:130
+msgid "Dec"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:132
+msgid "Mon"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:132
+msgid "Tue"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:132
+msgid "Wed"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:132
+msgid "Thu"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:132
+msgid "Fri"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:132
+msgid "Sat"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:132
+msgid "Sun"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:133
+msgid "AM"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:133
+msgid "PM"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:133
+msgid "am"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:133
+msgid "pm"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:171
+msgid "Manage your listings"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:172
+msgid "Manage your alerts"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/helpers/hUtils.php:173
+msgid "My account"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:4
+msgid "For sale"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:5
+msgid "Vehicles"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:6
+msgid "Classes"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:7
+msgid "Real estate"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:8
+msgid "Services"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:9
+msgid "Community"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:10
+msgid "Personals"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:11
+msgid "Jobs"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:12
+msgid "Animals"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:13
+msgid "Art - Collectibles"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:14
+msgid "Barter"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:15
+msgid "Books - Magazines"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:16
+msgid "Cameras - Camera Accessories"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:17
+msgid "CDs - Records"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:18
+msgid "Cell Phones - Accessories"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:19
+msgid "Clothing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:20
+msgid "Computers - Hardware"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:21
+msgid "DVD"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:22
+msgid "Electronics"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:23
+msgid "For Babies - Infants"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:24
+msgid "Garage Sale"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:25
+msgid "Health - Beauty"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:26
+msgid "Home - Furniture - Garden Supplies"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:27
+msgid "Jewelry - Watches"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:28
+msgid "Musical Instruments"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:29
+msgid "Sporting Goods - Bicycles"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:30
+msgid "Tickets"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:31
+msgid "Toys - Games - Hobbies"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:32
+msgid "Video Games - Consoles"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:33
+msgid "Everything Else"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:34
+msgid "Cars"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:35
+msgid "Car Parts"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:36
+msgid "Motorcycles"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:37
+msgid "Boats - Ships"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:38
+msgid "RVs - Campers - Caravans"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:39
+msgid "Trucks - Commercial Vehicles"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:40
+msgid "Other Vehicles"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:41
+msgid "Computer - Multimedia Classes"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:42
+msgid "Language Classes"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:43
+msgid "Music - Theatre - Dance Classes"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:44
+msgid "Tutoring - Private Lessons"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:45
+msgid "Other Classes"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:46
+msgid "Houses - Apartments for Sale"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:47
+msgid "Houses - Apartments for Rent"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:48
+msgid "Rooms for Rent - Shared"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:49
+msgid "Housing Swap"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:50
+msgid "Vacation Rentals"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:51
+msgid "Parking Spots"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:52
+msgid "Land"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:53
+msgid "Office - Commercial Space"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:54
+msgid "Shops for Rent - Sale"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:55
+msgid "Babysitter - Nanny"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:56
+msgid "Casting - Auditions"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:57
+msgid "Computer"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:58
+msgid "Event Services"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:59
+msgid "Health - Beauty - Fitness"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:60
+msgid "Horoscopes - Tarot"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:61
+msgid "Household - Domestic Help"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:62
+msgid "Moving - Storage"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:63
+msgid "Repair"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:64
+msgid "Writing - Editing - Translating"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:65
+msgid "Other Services"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:66
+msgid "Carpool"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:67
+msgid "Community Activities"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:68
+msgid "Events"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:69
+msgid "Musicians - Artists - Bands"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:70
+msgid "Volunteers"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:71
+msgid "Lost And Found"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:72
+msgid "Women looking for Men"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:73
+msgid "Men looking for Women"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:74
+msgid "Men looking for Men"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:75
+msgid "Women looking for Women"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:76
+msgid "Friendship - Activity Partners"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:77
+msgid "Missed Connections"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:78
+msgid "Accounting - Finance"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:79
+msgid "Advertising - Public Relations"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:80
+msgid "Arts - Entertainment - Publishing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:81
+msgid "Clerical - Administrative"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:82
+msgid "Customer Service"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:83
+msgid "Education - Training"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:84
+msgid "Engineering - Architecture"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:85
+msgid "Healthcare"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:86
+msgid "Human Resource"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:87
+msgid "Internet"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:88
+msgid "Legal"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:89
+msgid "Manual Labor"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:90
+msgid "Manufacturing - Operations"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:91
+msgid "Marketing"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:92
+msgid "Non-profit - Volunteer"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:93
+msgid "Real Estate"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:94
+msgid "Restaurant - Food Service"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:95
+msgid "Retail"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:96
+msgid "Sales"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:97
+msgid "Technology"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/installer/categories.php:98
+msgid "Other Jobs"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/model/Item.php:773
+#, php-format
+msgid "%s in"
+msgstr ""
+
+#: /var/www/osclass-git/oc-includes/osclass/model/Item.php:782
+msgid "There's no description available in your language"
+msgstr ""
+

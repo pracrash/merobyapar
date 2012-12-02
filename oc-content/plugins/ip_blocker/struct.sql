@@ -1,0 +1,5 @@
+CREATE TABLE /*TABLE_PREFIX*/t_ip_blocker(
+id int( 10 ) unsigned NOT NULL AUTO_INCREMENT ,
+ip int( 11 ) unsigned,
+PRIMARY KEY ( id )
+) ENGINE = InnoDB DEFAULT CHARACTER SET 'UTF8' COLLATE 'UTF8_GENERAL_CI';
